@@ -1,0 +1,9 @@
+BUSINESS INSIGHTS
+1.Total monthly enrollments were highest and revenue also peaked in the year 2025-7 and 2025-08.
+2.Python with AI/ML is the top course as per number of students.
+3. There is consistent average score per course.
+4.Janakpur have the highest number of student and Kathmandu being on second spot.
+5.Bikash Rai topped the class.
+6.Number of male student is greater than female.
+7.Cash based payment is done at most.
+8.Attendance percent and course progress have linear positive relation.
