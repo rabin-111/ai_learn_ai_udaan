@@ -18,12 +18,12 @@ This is a beginner-friendly, continuously updated learning repository created by
 
 It brings together the concepts I study, the code I write, the mistakes I encounter, and the practical exercises I use to strengthen my understanding.
 
-| 📚 Learning Resources        | 💻 Practical Work           | 📝 Documentation         |
-| :--------------------------- | :-------------------------- | :----------------------- |
-| AI Udaan — Digital Pathshala | Coding exercises            | Handwritten notes        |
-| W3Schools                    | Dataset-based practice      | Concept summaries        |
-| GeeksforGeeks                | Assignments and experiments | Learning progress        |
-| Official documentation       | Independent practice        | Key methods and examples |
+| 📚 Learning Resources        | 💻 Practical Work       | 📝 Documentation         |
+| :--------------------------- | :---------------------- | :----------------------- |
+| AI Udaan — Digital Pathshala | Lectures and assignment | Handwritten notes        |
+| W3Schools                    | practice                | Concept summaries        |
+| GeeksforGeeks                | practise tests          | Learning progress        |
+| Official documentation       | Independent practice    | Key methods and examples |
 
 ## 🛠️ Technologies & Libraries
 
@@ -117,25 +117,6 @@ Developing an understanding of the workflow used to train and evaluate machine l
 - Understanding overfitting and generalization
 
 _The scope of each section will expand as I study and practice more concepts._
-
----
-
-## 🧪 Practice Is the Most Important Part
-
-Understanding a concept while watching a tutorial is only the beginning. Being able to use it independently is what matters.
-
-This repository includes practical exercises using datasets, coding assignments, class practices, and additional experiments whenever possible.
-
-My practice approach:
-
-1. **Learn** — understand the concept from a course, tutorial, or documentation.
-2. **Implement** — write the code myself rather than only copying examples.
-3. **Experiment** — modify the code, test different inputs, and observe the results.
-4. **Debug** — investigate errors and understand why they occur.
-5. **Document** — record important methods, explanations, and lessons learned.
-6. **Revisit** — practice again until I can apply the concept without relying entirely on references.
-
-> **The objective is not just to recognize code, but to understand it well enough to write, modify, debug, and explain it independently.**
 
 ---
 
