@@ -1,0 +1,6 @@
+this part is covered in my handwritten notes.
+intro to ML
+types of ML
+-supervised , unsupervised, semisupervised and reinforcement learning
+-batch and online learning
+- instance based and model based learning
