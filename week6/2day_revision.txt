@@ -1,4 +1,4 @@
-Now, I have ready a lot of topics python,numpy ,pandas and matplotlib
+Now, I have already read a lot of topics python,numpy ,pandas and matplotlib
 I will be having recursive revision session for 2 days today and tomorrow,before
 studying machine learning.
 I have learned most of the machine learning topics in datamining subject and ai subject in my 
