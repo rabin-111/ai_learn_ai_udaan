@@ -1,0 +1,12 @@
+Now, I have ready a lot of topics python,numpy ,pandas and matplotlib
+I will be having recursive revision session for 2 days today and tomorrow,before
+studying machine learning.
+I have learned most of the machine learning topics in datamining subject and ai subject in my 
+engineering syllabus but here i will be applying them practically.
+I am also following a book by Aurélien Géron named Hands-on
+Machine Learning
+with Scikit-Learn,
+Keras & TensorFlow
+Concepts, Tools, and Techniques
+to Build Intelligent Systems
+2nd edition and sidewise lectures of digital padshala
