@@ -13,3 +13,6 @@ I have not uploaded notes for every individual day because uploading each set of
 ## Topic-wise Notes
 
 - [Python Basics](https://drive.google.com/file/d/1UrF2OPa7uW6KeDcfA6m7opPNVcLKELzS/view?usp=drivesdk)
+- [Numpy ](https://drive.google.com/file/d/1MDsXUTtMAexhO4A6Ikkd36IWtaSPeYg3/view?usp=drivesdk)
+- [Pandas ](https://drive.google.com/file/d/1OFniIUSDw1FA1PrdU6KcHQ7HOd8RsTDt/view?usp=drivesdk)
+- [Matplotlib](https://drive.google.com/file/d/1wLS5f00FBg7IvrckGNewNnzK7Lyf8K0Q/view?usp=drivesdk)
