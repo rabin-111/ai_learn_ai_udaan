@@ -1,0 +1,3 @@
+I learned the theory of the linear regression and developing the linear regression from scratch
+which i have written in my handwritten notes.
+but in real case we will be doing with frameworks.
