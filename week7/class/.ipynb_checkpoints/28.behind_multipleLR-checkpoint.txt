@@ -1,0 +1,9 @@
+refer to the handwritten note of this day day 28
+THis is already done in week6 assignment 6.1
+
+the basic steps are same u
+the eqn becomes =>
+y=b0+b1x1+b2x2+b3x3+.. so on
+and each column have impact on result so we have different weights
+b1 = summation (x-mean of x)(y-mean of y)/summation(x-mean of x)^2
+for each individual data in the value
