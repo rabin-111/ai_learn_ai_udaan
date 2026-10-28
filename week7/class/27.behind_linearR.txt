@@ -1,0 +1,16 @@
+REFER TO HANDWRITTEN NOTES
+
+
+
+
+WE calculate MSE and reduce this MSE to get the best plot 
+we have two method to reduce it 
+1. we use partial derivate and find gradient descent 
+m(optimal)=m-L * partial derivate of E wrt m
+b(optimal)=b -L *partial derivate of E wrt b
+
+and finding optimal value of m and b
+
+2. we calcualte slope ie 
+find optimal m by =(x-mean of x)*(y-mean of y)/(x-mean of x)^2
+optimal b = y-mx
