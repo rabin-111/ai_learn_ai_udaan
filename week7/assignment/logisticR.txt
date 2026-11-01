@@ -1,0 +1,30 @@
+I have written a deep mathematics of LogisticRegression in my handwritten notes which includes every mathematical concepts and the implementation from scratch
+
+how can logistic regression be implemented in dp lms? 
+
+logistic regression is different from normal linear regression as linear regression predicts the value in numerical form but logistic is for binary classification problem .
+it is a supervised machine learning
+it predicts the probability that an input belongs to a specified class.
+it uses sigmoid function ie s curve which have 1/(1+e^-z) such that it intercepts y axis at 0.5.
+it converts the raw output of linear regression into a probability between 0 and 1
+if ouput >= 0.5 it is considered as 1 and if <0.5 then output considered as 0.
+
+it can be directly implemented from sklearn
+model =LogisticRegression()
+model.fit(X,y)
+prediction=model.predict([[4.5]])
+prediction[1] --> gives predicted class
+prediction[0][0] --> gives probability of failing
+prediction[0][1] --> gives probability of passing.
+
+now how can it be implemented in dp lms? 
+-> it can be applied in the problems such as classifying student in terms that will they get 
+internship or not.
+we can also use it to predict if student will complete the class or not we need some data for the purpose such as assignment completed, classes completed per week , cource progress and number of logins.
+-->it can also be implemented in variety of problem such as predicting the student knowledge as high,medium or low on the topics.
+--> recommending the course to the required student
+--> calculating probability of passing and failing .
+it predicts and provides the probability of it.
+and provide extra classes to the student and can divide the classes into sections .
+
+--> it can be implemented into the dplms solutions part such as used predicting if student will pass in CEE ,IOE, CMAT and other bridge course 
