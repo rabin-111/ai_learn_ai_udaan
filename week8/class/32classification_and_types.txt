@@ -1,0 +1,15 @@
+categorization of data into the class 
+eg. pass or fail, good or bad , spam or not 
+previously we have used linear regression to calculate the value of prdicted op with the help of weight and bias
+now we use sigmoid function and find the probability and we use threshold and if >=0.5 we categorize the value eg: pass
+types: 
+1. binary classification : data that can be divided into two parts 
+eg : spam or not spam , yes or no , true or false 
+
+
+2. multiple classification :  data can be divided into more than 2 classes eg: poor, average , good, excellent or eg: dog, cat or tiger category
+
+3. multilevel classification /hierarchial classification: 
+single data can be in multiple independent classes /labels
+eg: movie can be categorized into both action and comedy -> genre
+ 

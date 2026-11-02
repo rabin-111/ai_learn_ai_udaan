@@ -1,0 +1,40 @@
+this is written in handwritten note of day 34
+
+
+
+1. Initialize parameters
+
+Choose initial w and b
+
+
+
+
+2. Calculate linear output
+z=wx+b
+
+
+
+3. Apply sigmoid
+
+Convert z into probability using the sigmoid function 
+
+sigma =1/(1+e^-z)
+
+
+
+4. Calculate cost
+
+Measure prediction errors using Log Loss.
+
+we have a formula for loss function in partial derivates 
+and we need to calculate the total cost function by dividing the summation of all loss function with the 
+total observation m.
+
+
+5. Gradient Descent
+it gives the direction in which the value of loss function is decreased.
+
+update the value of w and b
+
+
+6.Repeat until convergence
