@@ -1,0 +1,8 @@
+I have written this in handwritten notes 
+behind the scene is exactly same but it used binary classification again and again
+all the process are exactly same 
+it can be applied in the field such as music , movie classification
+the classified object can fall in two or more category 
+and the probability is calculated using same sigmoid function but all sum of it maynot be 1 
+basically we calculate independent probability and loss function , gradient descent all are same here for adjusting the value 
+of weight and bias
