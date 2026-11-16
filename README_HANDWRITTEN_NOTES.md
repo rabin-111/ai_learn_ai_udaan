@@ -16,3 +16,7 @@ I have not uploaded notes for every individual day because uploading each set of
 - [Numpy ](https://drive.google.com/file/d/1MDsXUTtMAexhO4A6Ikkd36IWtaSPeYg3/view?usp=drivesdk)
 - [Pandas ](https://drive.google.com/file/d/1OFniIUSDw1FA1PrdU6KcHQ7HOd8RsTDt/view?usp=drivesdk)
 - [Matplotlib](https://drive.google.com/file/d/1wLS5f00FBg7IvrckGNewNnzK7Lyf8K0Q/view?usp=drivesdk)
+- [In depth Linear Regression from scratch ](https://drive.google.com/file/d/102tuHT059nWnbI0NnnmnWOm7xUDyPI_e/view?usp=drivesdk)
+- [Indepth logistic regression and polynomial regression](https://drive.google.com/file/d/1YI7cePiFXhETpD45tjoh5aRQT7A9Hjht/view?usp=drivesdk)
+- [KNN in depth](https://drive.google.com/file/d/1-EpCBC5TfBHHu3kdfkPRwvycAvWJpRNX/view?usp=drivesdk)
+- [Decision Tree](https://drive.google.com/file/d/1k5hX5AflWMOKk5pOcfnwhg-2CzUTg01A/view?usp=drivesdk)
