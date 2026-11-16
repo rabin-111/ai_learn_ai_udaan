@@ -1,0 +1,42 @@
+dp-lms tries to integrate its own ai using its own model.
+dp is working on two things sms(school management system) and lms(learning management system) for the platform like institute.
+and we have to research on ed tech to make it better and easily accessible.
+There is llm inside dp lms and the task is to understand and try to make llm like this.
+
+
+
+DPlms tries to automate 
+as there is data from institute if they login from portal-> phone no. , gmail, name
+step1: they get 15 days free trial(email notification)
+step2: follow up(do you want to upgrade to premium plan)-> cronjob
+step3:  Automation needed.
+     ---> Takes phone number + automatic phone call to principal from whatsapp or telephone 
+and we need a ai agent to talk to them. natural tone of sales person . we have to have conversation to them and if there is any problem . and conversation should be noted to them and backups everything so that it replaces sales person completely and followup if the customer is wanting after certain days. complete automate the sales things .
+
+
+Research papers to read
+
+Kaewtawee et al., “Cloning a Conversational Voice AI Agent from Call Recording Datasets for Telesales” (arXiv 2509.04871, 2025). This is the closest match to your idea. Their system listens to customers over the phone, replies with a synthetic voice, and follows a playbook learned from top human agents. They evaluate the cloned agent against human agents on 22 criteria covering introduction, product communication, sales drive, objection handling, and closing. Use that rubric for your own evaluation. 
+aitopics
+arxiv
+Ethiraj et al., “Toward Low-Latency End-to-End Voice Agents for Telecommunications Using Streaming ASR, Quantized LLMs, and Real-Time TTS” (arXiv 2508.04721, 2025). Read this for the latency side. It covers sentence-level streaming from the LLM to TTS, 4-bit quantization, and running ASR, LLM, and TTS concurrently with a non-blocking producer-consumer pattern. It’s especially relevant if you go the offline route. 
+arxiv
+Xu et al., “VoiceAgentEval / OutboundEval” (arXiv 2510.21244, 2025). A benchmark for evaluating LLMs in expert-level outbound calling, with a sales category focused on conversion-oriented persuasion and objection handling. Useful for building a user simulator so you can test without calling real principals. 
+awesomepapers
+arxiv
+Casella and Wang, “Performant LLM Agentic Framework for Conversational AI” (arXiv 2503.06410). Covers running a call as a workflow graph, which is a good structure for a sales script. It also discusses the cost of extra planning steps, since a planning phase increases overall latency by doubling the number of queries needed. 
+arxiv
+“i-LAVA: Insights on Low Latency Voice-2-Voice Architecture for Agents” (2025). It finds that the TTS component has the biggest impact on real-time factor. Worth knowing before you choose a TTS model. 
+
+
+
+Research :
+
+11x is the best-known one going after the exact idea you described: an autonomous sales rep. It’s expensive; its inbound voice agent starts at $5,333 per month, billed annually. Thoughtly and CloudTalk also sell sales-focused agents that write call results back to a CRM.
+
+
+India is the best reference because they face the same problems: regional languages, code-mixing, and price-sensitive customers. Bolna is a Y Combinator-backed startup handling 10+ Indian languages including Hindi, Tamil, Telugu, Bengali, Marathi, and Hinglish, with mid-conversation language switching. Others include SquadStack, Ringg AI, and Ozonetel. There’s also an education example almost identical to DPlms: one Indian platform describes an agent that calls every signup within 5 minutes, pitches the right course, handles objections, and closes enrolment. 
+
+This matters most for you. TingTing is a Nepali startup that has begun operating a Nepali-language AI voice platform for large-scale phone outreach by local organizations. Its AI engine is built specifically for Nepali, covering text-to-speech, speech-to-text, and real-time conversational AI. Wiseyak is another: in November 2025 it received a GSMA grant to build a multilingual (English, Nepali, Maithili) conversational AI solution for call centres.
+
+
