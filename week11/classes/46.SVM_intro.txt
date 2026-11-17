@@ -1,0 +1,14 @@
+ most of the introduction are written in handwritten note of day 46
+
+tries to create boundary line as hyperplane that seperate classes in the data.
+useful for classifiication such as spam or not or cat or dog
+try to choose maximum margin between two classes
+margin -> distance from hyperplane to nearest data point(support vector)
+support vetor -> decision boundary ko xeu xau ma bhayeko points that is crucial for determining the hyperplane and margin in svm
+
+the equation of hyperplane is W^T+b=0 
+and its like linear regression randomly find Weight and bias and use in the equation to find x 
+and draw a hyperplane to seperate two classes
+
+what in the case of non linear points? 
+it uses technique called kernels that transform the nonlinear point into hiher dimensional space where it becomes seperable 
