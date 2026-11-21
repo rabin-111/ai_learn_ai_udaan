@@ -1,0 +1,14 @@
+its machine learning that increases the accuracy sort of reinforcement leaning.
+from weak learner to stronger learner
+step1: tree construct (tree1)
+step2: find mistakes
+step3: increase importance next model gives more attention to those incorrectly classifier data points
+step4: tree 2 and repeat
+
+approach for ensemble ml:  
+1.bagging
+2.adaboosting(adaptive boosting)
+
+
+AdaBoost (Adaptive Boosting) in Machine Learning
+AdaBoost is an Ensemble Learning algorithm that combines multiple weak learners to create a strong learner.
